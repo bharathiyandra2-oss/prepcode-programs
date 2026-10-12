@@ -1,0 +1,1 @@
+print(enumerate([13,23,34]))
