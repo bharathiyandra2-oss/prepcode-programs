@@ -1,0 +1,5 @@
+p1=int(input("enter first price:"))
+p2=int(input("enter second price:"))
+print("first is cheaper:",p1<p2)
+print("first is costlier:",p1>p2)
+print("prices are equal:",p1==p2)
